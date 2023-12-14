@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Paul Hobart, a Web Developer at Ferris State University (@paul-hobart-ferris)
+- 💻 I'm an Apple fan who tends to use Microsoft .NET programming, go figure!
+- 👀 I’m interested in front-end web development and back-end web development
+- 🌱 I’m currently learning JavaScript and TypeScript
+- 💞️ I’m not looking to collaborate on anything at the moment
+- 📫 fade.corkers_0c@icloud.com
