@@ -2,4 +2,3 @@
 - 💻 I'm an Apple fan who tends to use Microsoft .NET programming, go figure!
 - 👀 I’m interested in front-end web development and back-end web development
 - 🌱 I’m currently learning JavaScript and TypeScript
-- 📫 fade.corkers_0c@icloud.com
